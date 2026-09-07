@@ -1,0 +1,1662 @@
+{
+  "blocks": {
+    "homeBlock1": [
+      {
+        "id": "h1-full",
+        "block": 1,
+        "day": "fullBody",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h1-f1",
+            "name": "DB Bulgarian Split Squat \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Use a controlled descent; start with the weaker leg."
+          },
+          {
+            "id": "h1-f2",
+            "name": "DB Bulgarian Split Squat \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Reduce load and keep tempo smooth."
+          },
+          {
+            "id": "h1-f3",
+            "name": "Incline DB Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Lower the dumbbells as far as comfortable."
+          },
+          {
+            "id": "h1-f4",
+            "name": "TRX Hamstring Curl",
+            "sets": 1,
+            "reps": "10\u201312",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "TRX",
+            "notes": "Keep hips lifted and move slowly."
+          },
+          {
+            "id": "h1-f5",
+            "name": "Chest-Supported DB Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Squeeze shoulder blades together at the top."
+          },
+          {
+            "id": "h1-f6",
+            "name": "DB Curl",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": "After the main set, reduce the weight and continue with clean reps."
+          },
+          {
+            "id": "h1-f7",
+            "name": "DB Lateral Raise",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": "Raise out to the sides; avoid swinging."
+          },
+          {
+            "id": "h1-f8",
+            "name": "Weighted Crunch",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell + bench/floor",
+            "notes": "Round through the upper back as you crunch."
+          }
+        ]
+      },
+      {
+        "id": "h1-upper",
+        "block": 1,
+        "day": "upper",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h1-u1",
+            "name": "Flat DB Press \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Keep form consistent and progress load/reps."
+          },
+          {
+            "id": "h1-u2",
+            "name": "Flat DB Press \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Reduce load and emphasize stretch/control."
+          },
+          {
+            "id": "h1-u3",
+            "name": "Pull-Ups \u2014 2 Grips",
+            "sets": 2,
+            "reps": "6\u201312 clean reps",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Door pull-up bar",
+            "notes": "Use one overhand and one underhand/neutral-style set if possible. Bent knees are fine."
+          },
+          {
+            "id": "h1-u4",
+            "name": "Seated DB Shoulder Press",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Keep torso upright."
+          },
+          {
+            "id": "h1-u5",
+            "name": "TRX Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "TRX",
+            "notes": "Walk feet forward to increase difficulty."
+          },
+          {
+            "id": "h1-u6",
+            "name": "DB Skull Crusher",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "0\u20131 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Keep elbows stable."
+          },
+          {
+            "id": "h1-u7",
+            "name": "DB Curl",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": "Control the negative."
+          }
+        ]
+      },
+      {
+        "id": "h1-lower",
+        "block": 1,
+        "day": "lower",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h1-l1",
+            "name": "DB Romanian Deadlift",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": "Hips back; keep a neutral lower back."
+          },
+          {
+            "id": "h1-l2",
+            "name": "DB Bulgarian Split Squat",
+            "sets": 3,
+            "reps": "10\u201312 / leg",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": "Apartment-friendly leg-press replacement."
+          },
+          {
+            "id": "h1-l3",
+            "name": "Heel-Elevated Goblet Squat",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": "Keep torso tall and let knees travel forward."
+          },
+          {
+            "id": "h1-l4",
+            "name": "Seated DB Calf Raise",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "Minimal",
+            "equipment": "Dumbbell + bench",
+            "notes": "Pause at the top and stretch at the bottom."
+          },
+          {
+            "id": "h1-l5",
+            "name": "Weighted Crunch",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": "Use the abs, not momentum."
+          }
+        ]
+      }
+    ],
+    "homeBlock2": [
+      {
+        "id": "h2-full",
+        "block": 2,
+        "day": "fullBody",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h2-f1",
+            "name": "Incline DB Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-f2",
+            "name": "DB Bulgarian Split Squat \u2014 Heavy",
+            "sets": 1,
+            "reps": "6\u20138 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-f3",
+            "name": "DB Bulgarian Split Squat \u2014 Back-Off",
+            "sets": 1,
+            "reps": "10\u201312 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-f4",
+            "name": "Chest-Supported DB Row",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-f5",
+            "name": "TRX Hamstring Curl",
+            "sets": 1,
+            "reps": "10\u201312",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "TRX",
+            "notes": ""
+          },
+          {
+            "id": "h2-f6",
+            "name": "Incline DB Curl",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-f7",
+            "name": "DB Lateral Raise",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "h2-f8",
+            "name": "Reverse Crunch",
+            "sets": 1,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Floor/bench",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "h2-upper",
+        "block": 2,
+        "day": "upper",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h2-u1",
+            "name": "Pull-Ups \u2014 2 Grips",
+            "sets": 2,
+            "reps": "8\u201310 or clean max",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Door pull-up bar",
+            "notes": ""
+          },
+          {
+            "id": "h2-u2",
+            "name": "Flat DB Press \u2014 Heavy",
+            "sets": 1,
+            "reps": "6\u20138",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-u3",
+            "name": "Flat DB Press \u2014 Back-Off",
+            "sets": 1,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-u4",
+            "name": "Incline Chest-Supported DB Row",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-u5",
+            "name": "Standing DB Arnold Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "h2-u6",
+            "name": "Incline DB Curl",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "0\u20131 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-u7",
+            "name": "DB French Press",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "h2-lower",
+        "block": 2,
+        "day": "lower",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h2-l1",
+            "name": "DB Bulgarian Split Squat",
+            "sets": 3,
+            "reps": "10\u201312 / leg",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-l2",
+            "name": "DB Romanian Deadlift",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "h2-l3",
+            "name": "Goblet Squat",
+            "sets": 1,
+            "reps": "12\u201315",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          },
+          {
+            "id": "h2-l4",
+            "name": "Standing or Seated DB Calf Raise",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "Minimal",
+            "equipment": "Dumbbell + bench",
+            "notes": ""
+          },
+          {
+            "id": "h2-l5",
+            "name": "Weighted Crunch",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          }
+        ]
+      }
+    ],
+    "homeBlock3": [
+      {
+        "id": "h3-full",
+        "block": 3,
+        "day": "fullBody",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h3-f1",
+            "name": "DB Bulgarian Split Squat \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h3-f2",
+            "name": "DB Bulgarian Split Squat \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h3-f3",
+            "name": "Standing DB Arnold Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "h3-f4",
+            "name": "TRX Hamstring Curl",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "TRX",
+            "notes": ""
+          },
+          {
+            "id": "h3-f5",
+            "name": "Single-Arm DB Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbell + bench",
+            "notes": ""
+          },
+          {
+            "id": "h3-f6",
+            "name": "Hammer / Zottman Curl",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "h3-f7",
+            "name": "DB Lateral Raise",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "h3-f8",
+            "name": "DB Flye",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "h3-upper",
+        "block": 3,
+        "day": "upper",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h3-u1",
+            "name": "Flat DB Press \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h3-u2",
+            "name": "Flat DB Press \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h3-u3",
+            "name": "Pull-Ups",
+            "sets": 2,
+            "reps": "10\u201312 or clean max",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Door pull-up bar",
+            "notes": ""
+          },
+          {
+            "id": "h3-u4",
+            "name": "Seated DB Shoulder Press",
+            "sets": 2,
+            "reps": "12\u201315 (drop last set)",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h3-u5",
+            "name": "Chest-Supported DB Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "h3-u6",
+            "name": "DB French Press",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "0\u20131 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          },
+          {
+            "id": "h3-u7",
+            "name": "DB Curl",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "h3-lower",
+        "block": 3,
+        "day": "lower",
+        "location": "home",
+        "exercises": [
+          {
+            "id": "h3-l1",
+            "name": "DB Romanian Deadlift",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "h3-l2",
+            "name": "Stationary DB Reverse Lunge",
+            "sets": 3,
+            "reps": "8\u201310 / leg",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": "Quiet apartment replacement for walking lunges."
+          },
+          {
+            "id": "h3-l3",
+            "name": "Heel-Elevated Goblet Squat",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          },
+          {
+            "id": "h3-l4",
+            "name": "Standing DB Calf Raise",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "Minimal",
+            "equipment": "Dumbbell",
+            "notes": ""
+          },
+          {
+            "id": "h3-l5",
+            "name": "Weighted Crunch",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          }
+        ]
+      }
+    ],
+    "retroBlock1": [
+      {
+        "id": "r1-full",
+        "block": 1,
+        "day": "fullBody",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r1-f1",
+            "name": "Hack Squat \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Hack squat machine",
+            "notes": ""
+          },
+          {
+            "id": "r1-f2",
+            "name": "Hack Squat \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Hack squat machine",
+            "notes": ""
+          },
+          {
+            "id": "r1-f3",
+            "name": "Incline DB Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + incline bench",
+            "notes": ""
+          },
+          {
+            "id": "r1-f4",
+            "name": "Seated Hamstring Curl",
+            "sets": 1,
+            "reps": "10\u201312",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Hamstring curl machine",
+            "notes": ""
+          },
+          {
+            "id": "r1-f5",
+            "name": "T-Bar Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "T-bar row",
+            "notes": ""
+          },
+          {
+            "id": "r1-f6",
+            "name": "DB Bicep Curl",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r1-f7",
+            "name": "DB Lateral Raise",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r1-f8",
+            "name": "Cable Crunch",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Cable stack",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "r1-upper",
+        "block": 1,
+        "day": "upper",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r1-u1",
+            "name": "Flat DB Press \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "r1-u2",
+            "name": "Flat DB Press \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~3 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "r1-u3",
+            "name": "2-Grip Lat Pulldown",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Lat pulldown",
+            "notes": ""
+          },
+          {
+            "id": "r1-u4",
+            "name": "Seated DB Shoulder Press",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "r1-u5",
+            "name": "Seated Cable Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Cable row",
+            "notes": ""
+          },
+          {
+            "id": "r1-u6",
+            "name": "EZ-Bar Skull Crusher",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "0 min",
+            "equipment": "EZ bar + bench",
+            "notes": ""
+          },
+          {
+            "id": "r1-u7",
+            "name": "EZ-Bar Curl",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "EZ bar",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "r1-lower",
+        "block": 1,
+        "day": "lower",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r1-l1",
+            "name": "Romanian Deadlift",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Barbell or dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r1-l2",
+            "name": "Leg Press",
+            "sets": 3,
+            "reps": "10\u201312",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Leg press",
+            "notes": ""
+          },
+          {
+            "id": "r1-l3",
+            "name": "Leg Extension",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Leg extension",
+            "notes": ""
+          },
+          {
+            "id": "r1-l4",
+            "name": "Seated Calf Raise",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "0 min",
+            "equipment": "Calf machine",
+            "notes": ""
+          },
+          {
+            "id": "r1-l5",
+            "name": "Cable Crunch",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Cable stack",
+            "notes": ""
+          }
+        ]
+      }
+    ],
+    "retroBlock2": [
+      {
+        "id": "r2-full",
+        "block": 2,
+        "day": "fullBody",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r2-f1",
+            "name": "Incline Machine Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Incline press machine",
+            "notes": ""
+          },
+          {
+            "id": "r2-f2",
+            "name": "Single-Leg Leg Press \u2014 Heavy",
+            "sets": 1,
+            "reps": "6\u20138 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Leg press",
+            "notes": ""
+          },
+          {
+            "id": "r2-f3",
+            "name": "Single-Leg Leg Press \u2014 Back-Off",
+            "sets": 1,
+            "reps": "10\u201312 / leg",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Leg press",
+            "notes": ""
+          },
+          {
+            "id": "r2-f4",
+            "name": "Pendlay Row",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Barbell",
+            "notes": ""
+          },
+          {
+            "id": "r2-f5",
+            "name": "Glute-Ham Raise / Nordic Curl",
+            "sets": 1,
+            "reps": "10\u201312",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "GHR/Nordic setup",
+            "notes": ""
+          },
+          {
+            "id": "r2-f6",
+            "name": "Spider Curl",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells + incline bench",
+            "notes": ""
+          },
+          {
+            "id": "r2-f7",
+            "name": "Cable Lateral Raise",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Cable stack",
+            "notes": ""
+          },
+          {
+            "id": "r2-f8",
+            "name": "Hanging Leg Raise",
+            "sets": 1,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Pull-up station",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "r2-upper",
+        "block": 2,
+        "day": "upper",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r2-u1",
+            "name": "2-Grip Pull-Up",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Pull-up station",
+            "notes": ""
+          },
+          {
+            "id": "r2-u2",
+            "name": "Weighted Dip \u2014 Heavy",
+            "sets": 1,
+            "reps": "6\u20138",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Dip station",
+            "notes": ""
+          },
+          {
+            "id": "r2-u3",
+            "name": "Weighted Dip \u2014 Back-Off",
+            "sets": 1,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~3 min",
+            "equipment": "Dip station",
+            "notes": ""
+          },
+          {
+            "id": "r2-u4",
+            "name": "Incline Chest-Supported DB Row",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + incline bench",
+            "notes": ""
+          },
+          {
+            "id": "r2-u5",
+            "name": "Standing DB Arnold Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r2-u6",
+            "name": "DB Incline Curl",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "0 min",
+            "equipment": "Dumbbells + incline bench",
+            "notes": ""
+          },
+          {
+            "id": "r2-u7",
+            "name": "DB French Press",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "r2-lower",
+        "block": 2,
+        "day": "lower",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r2-l1",
+            "name": "DB Bulgarian Split Squat",
+            "sets": 3,
+            "reps": "10\u201312 / leg",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "r2-l2",
+            "name": "DB Romanian Deadlift",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r2-l3",
+            "name": "Goblet Squat",
+            "sets": 1,
+            "reps": "12\u201315",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbell",
+            "notes": ""
+          },
+          {
+            "id": "r2-l4",
+            "name": "Leg Press Toe Press",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "0 min",
+            "equipment": "Leg press",
+            "notes": ""
+          },
+          {
+            "id": "r2-l5",
+            "name": "Machine Crunch",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Ab crunch machine",
+            "notes": ""
+          }
+        ]
+      }
+    ],
+    "retroBlock3": [
+      {
+        "id": "r3-full",
+        "block": 3,
+        "day": "fullBody",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r3-f1",
+            "name": "Machine Squat \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Machine squat",
+            "notes": ""
+          },
+          {
+            "id": "r3-f2",
+            "name": "Machine Squat \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Machine squat",
+            "notes": ""
+          },
+          {
+            "id": "r3-f3",
+            "name": "Standing DB Arnold Press",
+            "sets": 2,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r3-f4",
+            "name": "Nordic Ham Curl / Lying Leg Curl",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Nordic setup or machine",
+            "notes": ""
+          },
+          {
+            "id": "r3-f5",
+            "name": "Meadows Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Landmine/barbell",
+            "notes": ""
+          },
+          {
+            "id": "r3-f6",
+            "name": "Inverse Zottman Curl",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r3-f7",
+            "name": "Machine Lateral Raise",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Lateral raise machine",
+            "notes": ""
+          },
+          {
+            "id": "r3-f8",
+            "name": "Pec Deck",
+            "sets": 1,
+            "reps": "10\u201312 + drop",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Pec deck",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "r3-upper",
+        "block": 3,
+        "day": "upper",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r3-u1",
+            "name": "Machine Chest Press \u2014 Heavy",
+            "sets": 1,
+            "reps": "4\u20136",
+            "rpe": "8\u20139",
+            "rest": "~3 min",
+            "equipment": "Chest press machine",
+            "notes": ""
+          },
+          {
+            "id": "r3-u2",
+            "name": "Machine Chest Press \u2014 Back-Off",
+            "sets": 1,
+            "reps": "8\u201310",
+            "rpe": "9\u201310",
+            "rest": "~3 min",
+            "equipment": "Chest press machine",
+            "notes": ""
+          },
+          {
+            "id": "r3-u3",
+            "name": "Machine Pulldown",
+            "sets": 2,
+            "reps": "10\u201312 + drop last set",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Pulldown machine",
+            "notes": ""
+          },
+          {
+            "id": "r3-u4",
+            "name": "Cable Shoulder Press",
+            "sets": 2,
+            "reps": "12\u201315 + drop last set",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Cable stack",
+            "notes": ""
+          },
+          {
+            "id": "r3-u5",
+            "name": "Helms DB Row",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "9\u201310",
+            "rest": "~2 min",
+            "equipment": "Dumbbells + bench",
+            "notes": ""
+          },
+          {
+            "id": "r3-u6",
+            "name": "Overhead Cable Triceps Extension",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "0 min",
+            "equipment": "Cable stack",
+            "notes": ""
+          },
+          {
+            "id": "r3-u7",
+            "name": "Cable EZ Curl",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Cable stack",
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "id": "r3-lower",
+        "block": 3,
+        "day": "lower",
+        "location": "retro",
+        "exercises": [
+          {
+            "id": "r3-l1",
+            "name": "Romanian Deadlift",
+            "sets": 2,
+            "reps": "10\u201312",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Barbell or dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r3-l2",
+            "name": "DB Walking Lunge",
+            "sets": 3,
+            "reps": "8\u201310 / leg",
+            "rpe": "8\u20139",
+            "rest": "~2 min",
+            "equipment": "Dumbbells",
+            "notes": ""
+          },
+          {
+            "id": "r3-l3",
+            "name": "Leg Extension",
+            "sets": 1,
+            "reps": "12\u201315 + drop",
+            "rpe": "9\u201310",
+            "rest": "~1.5 min",
+            "equipment": "Leg extension",
+            "notes": ""
+          },
+          {
+            "id": "r3-l4",
+            "name": "Standing Calf Raise",
+            "sets": 2,
+            "reps": "15\u201320",
+            "rpe": "10",
+            "rest": "0 min",
+            "equipment": "Calf machine",
+            "notes": ""
+          },
+          {
+            "id": "r3-l5",
+            "name": "Plate-Weighted Crunch",
+            "sets": 2,
+            "reps": "12\u201315",
+            "rpe": "10",
+            "rest": "~1.5 min",
+            "equipment": "Plate/DB",
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  "guides": {
+    "r1-f1": {
+      "homeEquivalent": "DB Bulgarian Split Squat \u2014 Heavy",
+      "retroVideoURL": "https://youtu.be/wEgQUCdtFLg",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r1-f2": {
+      "homeEquivalent": "DB Bulgarian Split Squat \u2014 Back-Off",
+      "retroVideoURL": "https://youtu.be/wEgQUCdtFLg",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r1-f3": {
+      "homeEquivalent": "Incline DB Press",
+      "retroVideoURL": "https://www.youtube.com/watch?v=p2t9daxLpB8",
+      "homeVideoURL": "https://www.youtube.com/watch?v=p2t9daxLpB8"
+    },
+    "r1-f4": {
+      "homeEquivalent": "TRX Hamstring Curl",
+      "retroVideoURL": "https://youtu.be/2CMmuH4qJh0",
+      "homeVideoURL": "https://www.youtube.com/watch?v=RkEHyudfkyM"
+    },
+    "r1-f5": {
+      "homeEquivalent": "Chest-Supported DB Row",
+      "retroVideoURL": "https://youtu.be/ZOg0CcJCKrk",
+      "homeVideoURL": "https://youtu.be/bsx8PIGIuaI"
+    },
+    "r1-f6": {
+      "homeEquivalent": "DB Curl",
+      "retroVideoURL": "https://youtu.be/i1YgFZB6alI?t=487",
+      "homeVideoURL": "https://youtu.be/i1YgFZB6alI?t=487"
+    },
+    "r1-f7": {
+      "homeEquivalent": "DB Lateral Raise",
+      "retroVideoURL": "https://youtu.be/v_ZkxWzYnMc?t=215",
+      "homeVideoURL": "https://youtu.be/v_ZkxWzYnMc?t=215"
+    },
+    "r1-f8": {
+      "homeEquivalent": "Weighted Crunch",
+      "retroVideoURL": "https://youtu.be/2RrGnjxSsiA?t=124",
+      "homeVideoURL": "https://youtu.be/PRcz1uIkqko"
+    },
+    "r1-u1": {
+      "homeEquivalent": "Flat DB Press \u2014 Heavy",
+      "retroVideoURL": "https://youtu.be/URQ1Wn7lY3A",
+      "homeVideoURL": "https://youtu.be/URQ1Wn7lY3A"
+    },
+    "r1-u2": {
+      "homeEquivalent": "Flat DB Press \u2014 Back-Off",
+      "retroVideoURL": "https://youtu.be/URQ1Wn7lY3A",
+      "homeVideoURL": "https://youtu.be/URQ1Wn7lY3A"
+    },
+    "r1-u3": {
+      "homeEquivalent": "Pull-Ups \u2014 2 Grips",
+      "retroVideoURL": "https://youtu.be/QGKhvhMcpPQ",
+      "homeVideoURL": "https://youtu.be/AUhSQM_c1QQ"
+    },
+    "r1-u4": {
+      "homeEquivalent": "Seated DB Shoulder Press",
+      "retroVideoURL": "https://youtu.be/ae9IxwoEpQ8?t=507",
+      "homeVideoURL": "https://youtu.be/ae9IxwoEpQ8?t=507"
+    },
+    "r1-u5": {
+      "homeEquivalent": "TRX Row",
+      "retroVideoURL": "https://youtu.be/FbWfA_s0XL8?t=273",
+      "homeVideoURL": "https://www.youtube.com/watch?v=yCuSGoe1gjY"
+    },
+    "r1-u6": {
+      "homeEquivalent": "DB Skull Crusher",
+      "retroVideoURL": "https://youtu.be/popGXI-qs98?t=123",
+      "homeVideoURL": "https://youtu.be/popGXI-qs98?t=123"
+    },
+    "r1-u7": {
+      "homeEquivalent": "DB Curl",
+      "retroVideoURL": "https://www.youtube.com/watch?v=Dd0t5UOCEUc",
+      "homeVideoURL": "https://youtu.be/i1YgFZB6alI?t=487"
+    },
+    "r1-l1": {
+      "homeEquivalent": "DB Romanian Deadlift",
+      "retroVideoURL": "https://youtu.be/_oyxCn2iSjU?t=95",
+      "homeVideoURL": "https://youtu.be/V5u2AP9wBwE"
+    },
+    "r1-l2": {
+      "homeEquivalent": "DB Bulgarian Split Squat",
+      "retroVideoURL": "https://youtu.be/didU4ZwAkPI?t=241",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r1-l3": {
+      "homeEquivalent": "Heel-Elevated Goblet Squat",
+      "retroVideoURL": "https://youtu.be/ljO4jkwv8wQ?t=202",
+      "homeVideoURL": "https://youtu.be/v-mQm_droHg?t=489"
+    },
+    "r1-l4": {
+      "homeEquivalent": "Seated DB Calf Raise",
+      "retroVideoURL": "https://youtu.be/-qsRtp_PbVM?t=311",
+      "homeVideoURL": "https://youtu.be/-qsRtp_PbVM?t=311"
+    },
+    "r1-l5": {
+      "homeEquivalent": "Weighted Crunch",
+      "retroVideoURL": "https://youtu.be/2RrGnjxSsiA?t=124",
+      "homeVideoURL": "https://youtu.be/PRcz1uIkqko"
+    },
+    "r2-f1": {
+      "homeEquivalent": "Incline DB Press",
+      "retroVideoURL": "https://youtu.be/b8fYnZ-usP0",
+      "homeVideoURL": "https://www.youtube.com/watch?v=p2t9daxLpB8"
+    },
+    "r2-f2": {
+      "homeEquivalent": "DB Bulgarian Split Squat \u2014 Heavy",
+      "retroVideoURL": "https://youtu.be/Gvgm70v4sPU",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r2-f3": {
+      "homeEquivalent": "DB Bulgarian Split Squat \u2014 Back-Off",
+      "retroVideoURL": "https://youtu.be/Gvgm70v4sPU",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r2-f4": {
+      "homeEquivalent": "Chest-Supported DB Row",
+      "retroVideoURL": "https://youtu.be/axoeDmW0oAY?t=185",
+      "homeVideoURL": "https://youtu.be/bsx8PIGIuaI"
+    },
+    "r2-f5": {
+      "homeEquivalent": "TRX Hamstring Curl",
+      "retroVideoURL": "https://youtu.be/psdbgvbdd_M",
+      "homeVideoURL": "https://www.youtube.com/watch?v=RkEHyudfkyM"
+    },
+    "r2-f6": {
+      "homeEquivalent": "Incline DB Curl",
+      "retroVideoURL": "https://www.youtube.com/watch?v=ebyOmAZUqzo&t=698s",
+      "homeVideoURL": "https://youtu.be/3FAvFJ0Vtag"
+    },
+    "r2-f7": {
+      "homeEquivalent": "DB Lateral Raise",
+      "retroVideoURL": "https://youtu.be/SJqInYJcg5k?t=653",
+      "homeVideoURL": "https://youtu.be/v_ZkxWzYnMc?t=215"
+    },
+    "r2-f8": {
+      "homeEquivalent": "Reverse Crunch",
+      "retroVideoURL": "https://youtu.be/2RrGnjxSsiA?t=247",
+      "homeVideoURL": "https://youtu.be/CFPB3QT19rE"
+    },
+    "r2-u1": {
+      "homeEquivalent": "Pull-Ups \u2014 2 Grips",
+      "retroVideoURL": "https://youtu.be/AUhSQM_c1QQ",
+      "homeVideoURL": "https://youtu.be/AUhSQM_c1QQ"
+    },
+    "r2-u2": {
+      "homeEquivalent": "Flat DB Press \u2014 Heavy",
+      "retroVideoURL": "https://youtu.be/yN6Q1UI_xkE?t=75",
+      "homeVideoURL": "https://youtu.be/URQ1Wn7lY3A"
+    },
+    "r2-u3": {
+      "homeEquivalent": "Flat DB Press \u2014 Back-Off",
+      "retroVideoURL": "https://youtu.be/yN6Q1UI_xkE?t=75",
+      "homeVideoURL": "https://youtu.be/URQ1Wn7lY3A"
+    },
+    "r2-u4": {
+      "homeEquivalent": "Incline Chest-Supported DB Row",
+      "retroVideoURL": "https://youtu.be/bsx8PIGIuaI",
+      "homeVideoURL": "https://youtu.be/bsx8PIGIuaI"
+    },
+    "r2-u5": {
+      "homeEquivalent": "Standing DB Arnold Press",
+      "retroVideoURL": "https://www.youtube.com/watch?v=zOpA1Op0zvc",
+      "homeVideoURL": "https://www.youtube.com/watch?v=zOpA1Op0zvc"
+    },
+    "r2-u6": {
+      "homeEquivalent": "Incline DB Curl",
+      "retroVideoURL": "https://youtu.be/3FAvFJ0Vtag",
+      "homeVideoURL": "https://youtu.be/3FAvFJ0Vtag"
+    },
+    "r2-u7": {
+      "homeEquivalent": "DB French Press",
+      "retroVideoURL": "https://youtu.be/K4E8CXajqfQ",
+      "homeVideoURL": "https://youtu.be/K4E8CXajqfQ"
+    },
+    "r2-l1": {
+      "homeEquivalent": "DB Bulgarian Split Squat",
+      "retroVideoURL": "https://youtu.be/htDXu61MPio",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r2-l2": {
+      "homeEquivalent": "DB Romanian Deadlift",
+      "retroVideoURL": "https://youtu.be/V5u2AP9wBwE",
+      "homeVideoURL": "https://youtu.be/V5u2AP9wBwE"
+    },
+    "r2-l3": {
+      "homeEquivalent": "Goblet Squat",
+      "retroVideoURL": "https://youtu.be/v-mQm_droHg?t=489",
+      "homeVideoURL": "https://youtu.be/v-mQm_droHg?t=489"
+    },
+    "r2-l4": {
+      "homeEquivalent": "Standing or Seated DB Calf Raise",
+      "retroVideoURL": "https://youtu.be/VJ_9xii47Sk",
+      "homeVideoURL": "https://youtu.be/-qsRtp_PbVM?t=162"
+    },
+    "r2-l5": {
+      "homeEquivalent": "Weighted Crunch",
+      "retroVideoURL": "https://youtu.be/zU6X6DLCH_U",
+      "homeVideoURL": "https://youtu.be/PRcz1uIkqko"
+    },
+    "r3-f1": {
+      "homeEquivalent": "DB Bulgarian Split Squat \u2014 Heavy",
+      "retroVideoURL": "https://youtu.be/N56STpGGRYE",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r3-f2": {
+      "homeEquivalent": "DB Bulgarian Split Squat \u2014 Back-Off",
+      "retroVideoURL": "https://youtu.be/N56STpGGRYE",
+      "homeVideoURL": "https://youtu.be/htDXu61MPio"
+    },
+    "r3-f3": {
+      "homeEquivalent": "Standing DB Arnold Press",
+      "retroVideoURL": "https://www.youtube.com/watch?v=zOpA1Op0zvc",
+      "homeVideoURL": "https://www.youtube.com/watch?v=zOpA1Op0zvc"
+    },
+    "r3-f4": {
+      "homeEquivalent": "TRX Hamstring Curl",
+      "retroVideoURL": "https://youtu.be/qVek72z3F1U?t=683",
+      "homeVideoURL": "https://www.youtube.com/watch?v=RkEHyudfkyM"
+    },
+    "r3-f5": {
+      "homeEquivalent": "Single-Arm DB Row",
+      "retroVideoURL": "https://youtu.be/f2JDJV0AnyY?t=336",
+      "homeVideoURL": "https://youtu.be/djKXLt7kv7Q?t=115"
+    },
+    "r3-f6": {
+      "homeEquivalent": "Hammer / Zottman Curl",
+      "retroVideoURL": "https://youtu.be/oU0Lb2dD_js",
+      "homeVideoURL": "https://youtu.be/Kd3tbUnbueU"
+    },
+    "r3-f7": {
+      "homeEquivalent": "DB Lateral Raise",
+      "retroVideoURL": "https://youtu.be/-9QsrJ542ao",
+      "homeVideoURL": "https://youtu.be/v_ZkxWzYnMc?t=215"
+    },
+    "r3-f8": {
+      "homeEquivalent": "DB Flye",
+      "retroVideoURL": "https://youtu.be/-EIhKMDSjBY?t=151",
+      "homeVideoURL": "https://youtu.be/wkyadlB54wE"
+    },
+    "r3-u1": {
+      "homeEquivalent": "Flat DB Press \u2014 Heavy",
+      "retroVideoURL": "https://youtu.be/k1S_Any3NIA?t=240",
+      "homeVideoURL": "https://youtu.be/URQ1Wn7lY3A"
+    },
+    "r3-u2": {
+      "homeEquivalent": "Flat DB Press \u2014 Back-Off",
+      "retroVideoURL": "https://youtu.be/k1S_Any3NIA?t=240",
+      "homeVideoURL": "https://youtu.be/URQ1Wn7lY3A"
+    },
+    "r3-u3": {
+      "homeEquivalent": "Pull-Ups",
+      "retroVideoURL": "https://youtu.be/j8Q50oBDK44",
+      "homeVideoURL": "https://youtu.be/AUhSQM_c1QQ"
+    },
+    "r3-u4": {
+      "homeEquivalent": "Seated DB Shoulder Press",
+      "retroVideoURL": "https://youtu.be/6n3U4BqsWg8",
+      "homeVideoURL": "https://youtu.be/ae9IxwoEpQ8?t=507"
+    },
+    "r3-u5": {
+      "homeEquivalent": "Chest-Supported DB Row",
+      "retroVideoURL": "https://youtu.be/axoeDmW0oAY?t=419",
+      "homeVideoURL": "https://youtu.be/bsx8PIGIuaI"
+    },
+    "r3-u6": {
+      "homeEquivalent": "DB French Press",
+      "retroVideoURL": "https://youtu.be/qIW3z-ydg-M",
+      "homeVideoURL": "https://youtu.be/K4E8CXajqfQ"
+    },
+    "r3-u7": {
+      "homeEquivalent": "DB Curl",
+      "retroVideoURL": "https://youtu.be/tw1h5XOD23Y",
+      "homeVideoURL": "https://youtu.be/i1YgFZB6alI?t=487"
+    },
+    "r3-l1": {
+      "homeEquivalent": "DB Romanian Deadlift",
+      "retroVideoURL": "https://youtu.be/_oyxCn2iSjU?t=95",
+      "homeVideoURL": "https://youtu.be/V5u2AP9wBwE"
+    },
+    "r3-l2": {
+      "homeEquivalent": "Stationary Reverse Lunge",
+      "retroVideoURL": "https://youtu.be/Y4Vv2ASsyhs?t=536",
+      "homeVideoURL": "https://youtu.be/Y4Vv2ASsyhs?t=536"
+    },
+    "r3-l3": {
+      "homeEquivalent": "Heel-Elevated Goblet Squat",
+      "retroVideoURL": "https://youtu.be/ljO4jkwv8wQ?t=202",
+      "homeVideoURL": "https://youtu.be/v-mQm_droHg?t=489"
+    },
+    "r3-l4": {
+      "homeEquivalent": "Standing DB Calf Raise",
+      "retroVideoURL": "https://youtu.be/-qsRtp_PbVM?t=162",
+      "homeVideoURL": "https://youtu.be/-qsRtp_PbVM?t=162"
+    },
+    "r3-l5": {
+      "homeEquivalent": "Weighted Crunch",
+      "retroVideoURL": "https://youtu.be/PRcz1uIkqko",
+      "homeVideoURL": "https://youtu.be/PRcz1uIkqko"
+    }
+  }
+}

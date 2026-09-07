@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0f172a" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Workout Tracker" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>Home + Retro Workout Tracker</title>
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <div class="eyebrow">12-WEEK ESSENTIALS TRACKER</div>
+      <h1>Home + Retro Fitness</h1>
+    </div>
+    <button id="installBtn" class="ghost hidden">Install</button>
+  </header>
+
+  <main>
+    <section class="card controls">
+      <div class="segmented" id="locationToggle">
+        <button data-location="home" class="active">🏠 Home</button>
+        <button data-location="retro">🏋️ Retro Fitness</button>
+      </div>
+      <div class="grid2">
+        <label>Week
+          <select id="weekSelect"></select>
+        </label>
+        <label>Workout
+          <select id="daySelect">
+            <option value="fullBody">Full Body</option>
+            <option value="upper">Upper</option>
+            <option value="lower">Lower</option>
+          </select>
+        </label>
+      </div>
+      <div id="blockSummary" class="summary"></div>
+    </section>
+
+    <section class="card progress-card">
+      <div class="row between"><strong>Today's progress</strong><span id="progressText">0 / 0 sets</span></div>
+      <div class="progress"><div id="progressBar"></div></div>
+    </section>
+
+    <section id="exerciseList" class="exercise-list"></section>
+
+    <section class="card actions">
+      <button id="saveWorkoutBtn" class="primary">Save workout</button>
+      <button id="historyBtn" class="secondary">History</button>
+      <button id="cardioBtn" class="secondary">Log bike cardio</button>
+      <button id="exportBtn" class="ghost">Export data</button>
+      <label class="ghost importLabel">Import data<input id="importInput" type="file" accept="application/json" hidden></label>
+    </section>
+  </main>
+
+  <dialog id="historyDialog">
+    <div class="dialog-head"><h2>Workout History</h2><button class="icon-btn" data-close="historyDialog">✕</button></div>
+    <div id="historyContent"></div>
+  </dialog>
+
+  <dialog id="cardioDialog">
+    <div class="dialog-head"><h2>Bike Cardio</h2><button class="icon-btn" data-close="cardioDialog">✕</button></div>
+    <label>Minutes<input id="cardioMinutes" type="number" min="1" value="25"></label>
+    <label>Notes<input id="cardioNotes" type="text" placeholder="Easy / conversational pace"></label>
+    <button id="saveCardioBtn" class="primary">Save cardio</button>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
